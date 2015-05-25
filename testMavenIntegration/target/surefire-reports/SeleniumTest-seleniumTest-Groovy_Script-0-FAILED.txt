@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 9570
+Size: 0
+Timestamp: Mon May 25 13:35:44 IST 2015
+TestStep: Groovy Script
+Error:java.lang.NoClassDefFoundError: org/apache/http/entity/ContentType
+
+----------------- Messages ------------------------------
+java.lang.NoClassDefFoundError: org/apache/http/entity/ContentType
+error at line: 6
